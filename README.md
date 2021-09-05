@@ -17,7 +17,7 @@ What will be predicted score if a student study for 9.25 hrs in a day? **
 **From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually.**
 
 # Task 3 - Exploring Exploratory Data Analysis
-**For the given 'Sample superstore' dataset, performing EDA and as a Business Analysist trying to fin out the week areas where i can work more to make profit.**
+**For the given 'Sample superstore' dataset, performing EDA and as a Business Analysist trying to find-out the weak areas where i can work more to make profit.**
 
 
 
